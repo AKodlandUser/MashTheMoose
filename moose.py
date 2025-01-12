@@ -6,7 +6,7 @@ TITLE = "Mash The Moose!"
 moose = Actor("moose", center=(WIDTH/2, HEIGHT/2))
 moose2 = Actor("moose", center=(WIDTH/2, HEIGHT/2 + 70))
 forest = Actor("forest") 
-text = Actor("preview", center=(WIDTH/2, HEIGHT/2 + 100)) 
+text = Actor("text", center=(WIDTH/2, HEIGHT/2 + 100)) 
 count = 0
 sound_control = True
 moose_control = None
