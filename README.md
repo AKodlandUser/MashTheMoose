@@ -20,10 +20,10 @@ This game incorporates different grades depending on how many times you clicked 
   Unbelievable! Your clicking has reached an enormous level! Now you have activated the [**ugly moose**](#ugly), which will make your gameplay slightly harder for a higher challenge!
 
 <dl>
-  <dt id=secret>Secret Moose</dt>
-  <dd>A square moose, the squareness giving it a bigger hitbox than the default one.</dd>
-  <dt id=ugly>Ugly Moose</dt>
-  <dd>A round moose without antlers, making the gameplay harder and more challenging.</dd>
+  <dt id=secret><a href="images/moose_1.png">Secret Moose</a></dt>
+  <dd>A square moose, the squareness giving it a bigger hitbox than the default one. The bigger hitbox makes the gameplay easier, making it easy to get more clicks.</dd>
+  <dt id=ugly><a href="images/moose_2.png">Ugly Moose</a></dt>
+  <dd>A round moose without antlers, the absence of antlers making its hitbox smaller. The smaller hitbox makes the gameplay harder and more challenging.</dd>
 </dl>
 
 ## How to play
