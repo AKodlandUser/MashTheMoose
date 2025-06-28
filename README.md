@@ -1,4 +1,8 @@
-# Mash The Moose!
+<p align="center">
+<img src="images/mashthemoose!thumb.png" width=300>
+</p>
+<h1 align="center">Mash The Moose!</h1>
+
 In this game, you'll have to click a moose repeatedly, and you'll have 60 seconds to do so. Depending on how many times you clicked it, you will have different grades. The moose will get faster every 15 seconds, so you must be prepared.
 
 ## Grades
