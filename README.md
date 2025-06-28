@@ -27,9 +27,12 @@ This game incorporates different grades depending on how many times you clicked 
 </dl>
 
 ## How to play
+If you're reading this, you probably know that you'll need to download different files and programs to use this game.
+
 Remember to first download the ZIP file in the case you do not have Github desktop.  
+Then, Extract all the files into a directory.  
 This project incorporates functions that are not included in the Kodland HUB, such as sound effects and fonts.
 So, you'll need to have [Python](https://python.org/downloads) and [Pygame Zero](https://pygame-zero.readthedocs.io/en/stable/installation.html) installed and running on your computer.  
 Here's a [video](https://youtu.be/2hKUKgaiqfg) that can help you install them on Windows.
 
-Then it's just as simple as enabling your virtual environment and writing `pgzrun moose.py` on your cmd. Enjoy!
+Then it's just as simple as enabling your virtual environment and writing `pgzrun moose.py` on your terminal. Enjoy!
